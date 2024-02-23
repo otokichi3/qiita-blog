@@ -1,5 +1,5 @@
 ---
-title: gcs-cdn-hls-streaming
+title: GCS 上の動画を Cloud CDN を経由してストリーミング配信する
 tags:
   - 'GCP'
   - 'GoogleCloud'
